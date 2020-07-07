@@ -1,1 +1,1 @@
-This generate from https://github.com/fmsnew/nas-bench-nlp-release
+This repo reproduce from https://github.com/fmsnew/nas-bench-nlp-release and the paper https://arxiv.org/pdf/2006.07116.pdf.
