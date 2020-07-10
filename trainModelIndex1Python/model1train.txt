@@ -1,0 +1,17 @@
+ | epoch  49 |   200/  663 batches | lr 0.00100 | ms/batch 467.18 | loss  4.28 | ppl    72.21 | bpc    6.174
+| epoch  49 |   400/  663 batches | lr 0.00100 | ms/batch 467.34 | loss  4.26 | ppl    70.74 | bpc    6.144
+| epoch  49 |   600/  663 batches | lr 0.00100 | ms/batch 488.74 | loss  4.28 | ppl    72.05 | bpc    6.171
+-----------------------------------------------------------------------------------------
+| end of epoch  49 | time: 323.60s |
+| train loss  3.59 | train ppl    36.21 | train bpw    5.178 |
+| valid loss  4.34 | valid ppl    77.06 | valid bpw    6.268 |
+| test loss  4.30 | test ppl    74.06 | test bpw    6.211 |
+-----------------------------------------------------------------------------------------
+| epoch  50 |   200/  663 batches | lr 0.00100 | ms/batch 467.72 | loss  4.28 | ppl    72.35 | bpc    6.177
+| epoch  50 |   400/  663 batches | lr 0.00100 | ms/batch 482.12 | loss  4.25 | ppl    70.44 | bpc    6.138
+| epoch  50 |   600/  663 batches | lr 0.00100 | ms/batch 466.85 | loss  4.26 | ppl    70.66 | bpc    6.143
+-----------------------------------------------------------------------------------------
+| end of epoch  50 | time: 323.75s |
+| train loss  3.58 | train ppl    35.82 | train bpw    5.163 |
+| valid loss  4.34 | valid ppl    76.83 | valid bpw    6.264 |
+| test loss  4.30 | test ppl    73.76 | test bpw    6.205 |
